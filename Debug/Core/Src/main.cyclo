@@ -1,0 +1,12 @@
+../Core/Src/main.c:76:5:__io_putchar	1
+../Core/Src/main.c:82:14:tcp_accept_handler	1
+../Core/Src/main.c:93:14:tcp_recv_handler	3
+../Core/Src/main.c:110:14:tcp_poll_handler	2
+../Core/Src/main.c:121:7:tcp_disconnect	2
+../Core/Src/main.c:130:6:tcp_process_pbufs	4
+../Core/Src/main.c:151:5:main	1
+../Core/Src/main.c:203:6:SystemClock_Config	4
+../Core/Src/main.c:257:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:290:13:MX_USB_OTG_FS_PCD_Init	2
+../Core/Src/main.c:323:13:MX_GPIO_Init	1
+../Core/Src/main.c:381:6:Error_Handler	1
